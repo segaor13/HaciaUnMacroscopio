@@ -1,4 +1,4 @@
-# Readme
+# Hacia un macroscopio: Repositorio
 
 Este repositorio acompaña la tesis doctoral ***Hacia un macroscopio. Desarrollo metodológico para una historia digital de problemas sociales en la producción noticiosa de 'El Siglo de Torreón' (2013 – 2022)***, presentada por Sergio Garza Orellana en la Universidad Iberoamericana Torreón, bajo la dirección del Dr. Jairo Melo Florez. 
 
